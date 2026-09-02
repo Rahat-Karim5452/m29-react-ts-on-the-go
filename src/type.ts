@@ -12,4 +12,10 @@ export default interface CountryType {
       alt: string;
     };
   };
+  capital: {
+    capital: ["Kingston"];
+  };
+  population: {
+    population: 2961161;
+  };
 }

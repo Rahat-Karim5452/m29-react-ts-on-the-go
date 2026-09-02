@@ -4,3 +4,29 @@
     margin-bottom: 10px;
     padding: 10px;
 }
+
+.country button {
+    margin-top: 15px;
+    padding: 10px 18px;
+
+    border: none;
+    border-radius: 8px;
+
+    background-color: #2563eb;
+    color: white;
+
+    cursor: pointer;
+}
+
+.country button:hover {
+    background-color: #1d4ed8;
+}
+
+.country p {
+    margin: 8px 0;
+    color: #555;
+}
+
+.country-visited {
+    background-color: lightgreen;
+}
